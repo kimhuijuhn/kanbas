@@ -7,7 +7,7 @@
 * Node.js 
 
 ### Things to do
-* Write HTML code
-* Make it pretty with bootstrap
+- [X] Write HTML code
+- [ ] Make it pretty with bootstrap
 
 ### 
