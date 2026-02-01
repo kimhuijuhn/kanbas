@@ -8,6 +8,7 @@
 
 ### Things to do
 - [X] Write HTML code
-- [ ] Make it pretty with bootstrap
-
-### 
+- [ ] Listen to Bootstrap Lecture
+- [ ] Implement Bootstrap and CSS to Kanbas
+- [ ] Take JS Lecture
+- [ ] Implement JS to Kanbas
