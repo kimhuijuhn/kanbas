@@ -26,3 +26,35 @@
 .selector-1 > .selector-2 > .selector-3 > .selector-4 {
     background-color: darkslategrey
 }
+
+/* box-models */
+.margin-10px {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.margin-30px {
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+/* position-related */
+.position-1 {
+    position: relative;
+    background-color: aqua;
+    width: 400px;
+    height: 200px;
+}
+
+.position-2 {
+    position: absolute;
+    background-color: blueviolet;
+    width: 150px;
+    height: 150px;
+}
+
+.position-3 {
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+}
