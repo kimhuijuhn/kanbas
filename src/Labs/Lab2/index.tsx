@@ -22,6 +22,7 @@ export default function Lab2() {
         </ul>
       </p>
 
+      <h3> Style Hierarchy </h3>
       <div className="selector-1">
         this is a div with the className as <b> .selector-1. </b> 
         <span className="selector-2"> this is a span with className selector-2.</span>
@@ -38,6 +39,21 @@ export default function Lab2() {
           </div>
         </div>
       </div>
+      <h3> Positions </h3>
+      <div className='position-1' style={{backgroundColor: "grey"}}>
+          This is one div.
+          <div className="position-2 margin-10px">
+            This is a div inside the blue div which has the absolute position.
+          </div>
+          <div className="position-3 margin-30px">
+            But this is a relative positioned div.
+          </div>
+      </div>
+      
+      <div>
+        <h3> Z Index</h3>
+      </div>
+
     </div>
     );
 }
