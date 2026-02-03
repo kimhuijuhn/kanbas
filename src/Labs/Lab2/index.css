@@ -53,8 +53,45 @@
     height: 150px;
 }
 
-.position-3 {
+.position-3 { 
     background-color: yellow;
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
+}
+
+/* Flex-related */
+.flex-container {
+    border-width: 5px;
+    border-style: solid;
+    display: flex;
+    justify-content: center;
+}
+
+.flex-box {
+    border-width: 1px;
+    border-color: black;
+    border-style: dotted;
+    margin: 10px;
+    padding: 10px;
+}
+
+.flex-row-container {
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+/* animation-related */
+.animated-button {
+    color: slateblue;
+    margin: 50px;
+    width: 100px;
+    height: 100px;
+    transition: 0.25s;
+}
+
+.animated-button:hover {
+    scale: 110%;
+    
 }

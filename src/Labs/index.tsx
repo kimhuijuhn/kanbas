@@ -7,7 +7,7 @@ import Kanbas from '../Kanbas';
 
 export default function Labs() {
     return (
-        <div>
+        <div className='container'>
             <h1> Labs </h1>
             <TOC/>
             <Routes>
