@@ -13,7 +13,11 @@ body {
     font-kerning: -20;
 }
 
-
+.lato-bold {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
 
 /* bootstrap override */
 .list-group.wd > .list-group-item.active {
@@ -26,3 +30,4 @@ body {
     font-family: lato, sans-serif;
     height: 36px;
 }
+
