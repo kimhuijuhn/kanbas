@@ -13,5 +13,5 @@
 - [ ] Begin serverside development
 
 ### Dev Log
-2026. 2. 8  
+2026-02-08
 I am starting to lose momentum here... Need some kickstarter action items to refuel the project.
